@@ -15,7 +15,5 @@ Simple app to using Radio Web 😀
 
 #### ⬇︎ On Open Radio ⬇︎
 
-![Capture 1](https://user-images.githubusercontent.com/6248794/93241501-6a8a0d80-f753-11ea-849b-e1515889133c.png)
-
-![Capture2](https://user-images.githubusercontent.com/6248794/93241503-6a8a0d80-f753-11ea-91e1-d690c6c8a56d.png)
+![Capture 1](https://user-images.githubusercontent.com/6248794/93241501-6a8a0d80-f753-11ea-849b-e1515889133c.png)![Capture2](https://user-images.githubusercontent.com/6248794/93241503-6a8a0d80-f753-11ea-91e1-d690c6c8a56d.png)
 
