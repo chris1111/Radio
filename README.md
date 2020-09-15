@@ -1,4 +1,7 @@
 # Radio
+Created: chris1111
+From: MacGap
+Powered: Radio
 
 Simple app to using Radio Web 😀
 - Closing App by the Dock or the menue bar, Radio / Quit
