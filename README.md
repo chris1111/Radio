@@ -5,10 +5,8 @@
 Simple app to using Radio Web 😀
 - For the first opening you will have to click on the Dock icon so that the application is displayed and this will not be necessary afterwards.
 - Closing App by the Dock or the menue bar, Radio / Quit
-- You can View full screen by the 🟢
-
-
 ![Capture quit](https://user-images.githubusercontent.com/6248794/93240587-4c6fdd80-f752-11ea-8b97-a33ee79323e2.png)
+- You can View full screen by the 🟢
 
 ### Download Release ➤ [Radio](https://github.com/chris1111/Radio/releases/tag/V1)
 
