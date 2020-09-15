@@ -4,6 +4,7 @@
 
 Simple app to using Radio Web 😀
 - Closing App by the Dock or the menue bar, Radio / Quit
+- You can View full screen by the 🟢
 
 ![Capture quit](https://user-images.githubusercontent.com/6248794/93240587-4c6fdd80-f752-11ea-8b97-a33ee79323e2.png)
 
