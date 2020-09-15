@@ -1,4 +1,5 @@
 # Radio
+- Working from macOS Mojave to macOS Big Sur 11
 ### Created by: chris1111
 ### From: MacGap
 ### Powered: Radio
